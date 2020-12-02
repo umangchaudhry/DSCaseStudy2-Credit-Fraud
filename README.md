@@ -31,7 +31,7 @@
     
        (add something here plz)
        
-    5. New network(file name
+    5. Neural network(file name
     
        (add something here plz)
        
