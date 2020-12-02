@@ -26,9 +26,9 @@
     
        This file performs analysis with support vector machine(SVM) model. The results are presented in a confusion matrix.
        
-    5. Neural network(file name
+    5. neural_net.ipynb
     
-       (add something here plz)
+       This file provides the framework for a deep neural network (DNN) that can be used for binary classification. Preprocessing steps are run before the model for both undersampling and oversampling techniques. Evaluation metrics are available under the prediction sections of each model's improvements. 
        
     6. LogisticRegression.ipynb
     
