@@ -9,7 +9,7 @@
     3. HTML files - Basic statistical analysis reports for the entire dataset and only the fraud data.
 
 ## ipynb file description
-        Please ensure creditcard.csv is downloaded and saved to the data folder in this repository before running any of these files.
+    Please ensure creditcard.csv is downloaded and saved to the data folder in this repository before running any of these files.
 
     1.XGBoost_and_GDB_Model.ipynb
         We scale time and amout to improve convergence speed of the model and also enhance model accuracy. Then we compare XGB and GBD model performance. After choosing XGB model, we use two different sampling methods techique on XGB models. Finally, we use cross validation method to turn the parameter for XGB and show our final results of XGB model.
