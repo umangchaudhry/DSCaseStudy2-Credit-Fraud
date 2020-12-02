@@ -21,11 +21,11 @@
 
     2. RF_credit card.ipynb
     
-      (add something here plz)
+       Random Forest model pipeline with three different sampling methods.
    
     3. RF_test_db_for_dashboard.ipynb   
     
-       (add something here plz)
+       Generating test data with preditc probability for Random Forest which will be used for the dashboard.
        
     4. SVM.ipynb
     
