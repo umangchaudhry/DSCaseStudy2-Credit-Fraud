@@ -4,12 +4,12 @@
     Original Project Link: https://data-flair.training/blogs/data-science-machine-learning-project-credit-card-fraud-detection/
 
 ## This Repo is organized in the following manner: 
-    1. Data - This contains the Credit Fraud dataset which is used to train our machine learning models.
+    1. Data - This contains the link of Credit Fraud dataset which is used to train our machine learning models.
     2. ipynb files - Run these files to present the model performance in each ML model after training Credit Fraud dataset.
     3. HTML files - (add something here plz)
 
 ## ipynb file description
-
+        In order to run the notebook file below, you might need to download the dataset and save it under data folder.
 
     1.XGBoost_and_GDB_Model.ipynb
     
