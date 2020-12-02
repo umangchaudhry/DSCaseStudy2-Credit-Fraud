@@ -24,7 +24,7 @@
        
     4. SVM.ipynb
     
-       (add something here plz)
+       This file performs analysis with support vector machine(SVM) model. The results are presented in a confusion matrix.
        
     5. Neural network(file name
     
