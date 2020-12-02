@@ -4,7 +4,7 @@
     Original Project Link: https://data-flair.training/blogs/data-science-machine-learning-project-credit-card-fraud-detection/
 
 ## This Repo is organized in the following manner: 
-    1. Data - This contains the link of Credit Fraud dataset which is used to train our machine learning models.
+    1. Data - This contains the link of Credit Fraud dataset which is used to train our machine learning models. The dataset is too large to be stored on github. In order to run this repo, please download the dataset from the given link under the data folder and save the csv file in the data folder. 
     2. ipynb files - Run these files to present the model performance in each ML model after training Credit Fraud dataset.
     3. HTML files - Basic statistical analysis reports for the entire dataset and only the fraud data.
 
@@ -30,6 +30,10 @@
     
        (add something here plz)
        
-    6. Logistic model(file name
+    6. LogisticRegression.ipynb
     
-       (add something here plz)
+       This file develops a logistic regression model told predict credit card fraud. Additionally, results of the model are also presented in the form of a confusion matrix within this file.
+       
+    7. Dashboard.ipynb
+       
+       This file has the code that is used to run the Dashboard. To run the dashboard, please run the entire file in Jupyter Notebooks. You may need to change jupyter notebook settings in order to display in-line animations and the dashboard. 
