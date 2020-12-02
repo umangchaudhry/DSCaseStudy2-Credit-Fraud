@@ -18,5 +18,23 @@
         Thus we choose XGB model from the two models and  then we do further exploration on XGB model by using UnderSampling technique and OverSampling technique to seek for a better model performance and solve imbalance data problem. 
         The underSampling technique does help us detect most of fraud cases but it also affects XGB model's precision. Oversampling did not bring much improvement on XGB models. Thus, we still insists on using XGB without using UnderSampling 
         and OverSampling. Finally, we use cross validation method to turn the better parameter for XGB and show our final results of XGB model.
-        
 
+    2. RF_credit card.ipynb
+    
+      (add something here plz)
+   
+    3. RF_test_db_for_dashboard.ipynb   
+    
+       (add something here plz)
+       
+    4. SVM.ipynb
+    
+       (add something here plz)
+       
+    5. New network(file name
+    
+       (add something here plz)
+       
+    6. Logistic model(file name
+    
+       (add something here plz)
