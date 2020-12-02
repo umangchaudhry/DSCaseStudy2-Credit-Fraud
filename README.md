@@ -9,7 +9,7 @@
     3. HTML files - (add something here plz)
 
 ## ipynb file description
-        In order to run the notebook file below, you might need to download the dataset and save it under corresponding folder.
+        In order to run the notebook file below, you might need to download the dataset and save it under corresponding address.
 
     1.XGBoost_and_GDB_Model.ipynb
     
