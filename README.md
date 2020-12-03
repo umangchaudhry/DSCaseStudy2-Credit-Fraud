@@ -4,7 +4,7 @@
     Original Project Link: https://data-flair.training/blogs/data-science-machine-learning-project-credit-card-fraud-detection/
 
 ## This Repo is organized in the following manner: 
-    1. Data - This contains the link of Credit Fraud dataset which is used to train our machine learning models. The dataset is too large to be stored on github. In order to run this repo, please download the dataset from the given link under the data folder and save the csv file in the data folder. 
+    1. Data - This contains the link of Credit Fraud dataset which is used to train our machine learning models. The dataset is too large to be stored on github. In order to run this repo, please download the dataset from the given link under the data folder and save the csv file in the data folder. This folder also contains two images that are used in the dashboard. These are two confusion matrices for the best models being examined in the Dashboard. 
     2. ipynb files - Run these files to present the model performance in each ML model after training Credit Fraud dataset.
     3. HTML files - Basic statistical analysis reports for the entire dataset and only the fraud data.
 
