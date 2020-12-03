@@ -33,7 +33,11 @@
     6. LogisticRegression.ipynb
     
        This file develops a logistic regression model told predict credit card fraud. Additionally, results of the model are also presented in the form of a confusion matrix within this file.
+    
+    7. XGB_model_undersampling.ipynb
+    
+        This file recreates the best performing XGBoost model that will be used in the Dashboard. 
        
-    7. Dashboard.ipynb
+    8. Dashboard.ipynb
        
        This file has the code that is used to run the Dashboard. Before running this file, please run RF_test_db_for_dashboard. This ipynb creates a csv that acts as the source data for the dashboard. In the case the dashboard still does not run, please make sure that the resulting csv file called "test_df_full.csv" is saved to the data folder. To run the dashboard, please run the entire file in Jupyter Notebooks. You may need to change jupyter notebook settings in order to display in-line animations and the dashboard. 
